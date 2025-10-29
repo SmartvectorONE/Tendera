@@ -1,0 +1,5 @@
+{
+  "name": "Tender Overview",
+  "description": "A web application to display and detail European tenders from a database, featuring a modern card-based interface and detailed views for each tender.",
+  "requestFramePermissions": []
+}
