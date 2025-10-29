@@ -1,9 +1,1 @@
-
-version: '3.8'
-
-services:
-  webapp:
-    build: .
-    ports:
-      - "8080:80"
-    restart: unless-stopped
+full contents of docker-compose.yml
